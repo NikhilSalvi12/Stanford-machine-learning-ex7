@@ -1,10 +1,10 @@
 # Stanford-machine-learning-ex7
 Applying PCA And K means clustering
 
-** languages used **
+**languages used**
 Octave
 
-** Objectives **
+**Objectives**
 1. Write a suitable code for (K-means) Closest Centroid.
 2. write the code for (K-means) Centroid means.
 3. Perfoming dimentionality reduction using Principal Component Analysis (PCA).
